@@ -11,7 +11,6 @@ This app provides a structured preparation workflow with complete chapter catego
 - Modular Python architecture with separate files for UI, content, questions, utilities, and progress tracking.
 - Full syllabus sections with chapter-level weightage.
 - Study Mode with formulas rendered in LaTeX and concise concept notes.
-- Modern UI theme with animated abstract gradient background, glassmorphism cards, and section banner imagery.
 - Practice Mode with random chapter-wise MCQs, answer validation, and live scoring.
 - Mock Test Mode with 10 mixed questions, timer, and result summary.
 - JSON-backed progress tracker with:
